@@ -23,14 +23,10 @@ The project implements following functionalities:
 - **`random_noise` :** adds a random number to each color number or subtracts a random number
 
 ## User Interface
-The program has a simple command line interface.<br /><br />
-<div style="text-align:center">
-    <img src="assets/interface.PNG">
-</div>
+The program has a simple command line interface.<br />
+<img src="assets/interface.PNG">
 
 ## Sample Output 
-
-<div style="text-align:center">
 
 | Original Image | Greyscale | 
 | :-------------: |:-------------:| 
@@ -41,8 +37,6 @@ The program has a simple command line interface.<br /><br />
 | <img src="assets/cake_blur.jpg" width="300"> | <img src="assets/cake_negativered.jpg" width="300"> |
 | **Flatten RG** | **Random Noise** |
 | <img src="assets/cake_justblue.jpg" width="300"> | <img src="assets/cake_noise.jpg" width="300"> |
-
-</div>
 
 ## Reference
 Further details about the project can be found [here.](http://nifty.stanford.edu/2012/guerin-image-editor/)
