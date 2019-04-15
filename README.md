@@ -27,6 +27,8 @@ The program has a simple command line interface.<br />
 <img src="assets/interface.PNG" align="center">
 
 ## Sample Output 
+<center>
+
 | Original Image | Greyscale | 
 | ------------- |:-------------:| 
 | <img src="assets/cake.jpg" width="300"> | <img src="assets/cake_greyscale.jpg" width="300"> |
@@ -37,6 +39,7 @@ The program has a simple command line interface.<br />
 | **Flatten RG** | **Random Noise** |
 | <img src="assets/cake_justblue.jpg" width="300"> | <img src="assets/cake_noise.jpg" width="300"> |
 
+</center>
 ## Reference
 Further details about the project can be found [here.](http://nifty.stanford.edu/2012/guerin-image-editor/)
 
